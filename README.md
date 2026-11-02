@@ -2,9 +2,9 @@
 
 ![image](docs/0-Ez-New-Screenie-1.jpg)
 
-###### **All versions come with the feature to keep recent chat conversations available, even after you crash or close the program.**
+#### **All versions come with the feature to keep recent chat conversations available, even after you crash or close the program.**
 
-###### **Never lose a customer or a new friend anymore because of a system crash or disconnect.**
+#### **Never lose a customer or a new friend anymore because of a system crash or disconnect.**
 
 **Forever Free: Start immediately without registration or a K-Di account. No connection to K-Di servers needed!**
 
@@ -14,7 +14,7 @@
 
 Katya's Ez Relay System is a lightweight Windows communication, organization and management tool for Second Life. It actually connects you directly to Second Life and allows you to use Second Life while adding enhanced features not available in the regular Second Life viewer. Katya's Ez Relay system is being developed for people already familiar with Second Life and those looking for a tool to stay connected as much as possible, not just to chat with friends but also to manage their business. Katya's Ez Relay is basically an enhanced Second Life viewer without the 3D graphics. Katya's Ez Relay System makes it possible to stay in Second Life while running heavy applications, games, secondary accounts (in combination with a normal viewer) without using as much CPU/GPU load. *Another benefit is that people with very low end systems can still enjoy Second Life and to accommodate these people some more, I have opened a free chatroom (I might add more if people use it).* To make this even more lightweight (right now, it uses your web-browser), a standalone version and Android version are planned in the near future when all the current planned implementations have been added and working properly.
 
-###### *Developed by K-Di Designs for Second Life, designed to comply with Linden Lab's Third-Party Viewer Policy.*
+#### *Developed by K-Di Designs for Second Life, designed to comply with Linden Lab's Third-Party Viewer Policy.*
 
 Katya's Ez Relay System uses a local (on your own device) login component to authenticate with Second Life. Your login info is only sent from your device to Linden Lab's servers. All your chats (and logs) are strictly limited to go through your own system and Linden Lab's servers and never shared with K-Di servers (make sure to keep backups if you have important logs). For security reasons, direct L$ transactions between avatars are limited. For example: paying someone's profile or someone else's owned objects is not possible. *NOTE: Only because transactions are limited (except with K-Di Designs) does not mean that your store will stop working. Anything you have setup with your normal 3D viewer (including refund scripts) will work and you can still receive L$ and even see your balance. It's not possible to send L$ to other avatars while using Katya's Ez Relay System.* Not sure if I will enable this as I like to focus on security but this all depends on what other people prefer.
 
@@ -24,11 +24,11 @@ I'm looking forward to further developing this project using your feedback. Remi
 
 [Katya's Ez Relay System - Beta 1.0](https://www.youtube-nocookie.com/embed/hKvbGzQ2Ssg?feature=oembed)
 
-###### Most functions you can expect from a viewer are already functional (including enhanced features). The following features are available (this short list only covers basic features):
+#### Most functions you can expect from a viewer are already functional (including enhanced features). The following features are available (this short list only covers basic features):
 
 *Private messaging, Nearby Chat, and locally saved chat history. Second Life Friends and separate customizable Relay Contacts. Resident profiles, friendship requests and contact organization. Teleportation, favorite locations, and SLurls. Notecards, landmarks, textures and supported inventory management. Second Life Groups, Group Chat and Group Notices. Avatar controls, status and L$ information. Optional Mini Radar with nearby resident information with optional teleport to avatar. Profile and Picks editing. Business-oriented contact and transaction-history tools. Themes, personalization and convenient quick actions.*
 
-###### Next on the list (some already being tested):
+#### Next on the list (some already being tested):
 
 *Some common features that were almost ready (update asap). Some unique features I will announce later. Grid Map. Grid Map Search & Teleport. Search Second Life Groups. Public group-title switching. Expanded Avatar Movement Controls. Encrypt & Decrypt chat & transaction Logs. Advanced Inventory Organizer. Advanced inventory moving and sorting. Inventory cleaning rules and timelines. Land Management. Estate Management. Offline IM Mode and email integrations. Improved and enhanced media streaming. Upload images/textures. Uploading of building materials (such as mesh). Expanded Grid Compatibility (maybe). Dedicated standalone desktop app. Android Edition.*
 
