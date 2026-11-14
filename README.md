@@ -27,7 +27,7 @@ Updates & Fixes (added on November 14 with Beta 1.1):
 **Standalone option from launcher (and 1 step closer to Android version)!
 Several patches (needed after switching to standalone version).
 Saved Avatar Licenses: Able to Select previously used avatars at startup and safely remove saved licenses.
-World Map: Implemented region search, navigation, teleport and SLURL copying. Available to all plans, including Forever Free.
+Available to all plans, including Forever Free: Implemented region maps (with zoom in and out), search, navigation, teleport and SLURL copying.
 Profiles: Fix shortened biographies and prevent accidental truncation.
 Group Chats: Display group conversations separately from direct IMs, together with group label.
 Color Labels: Expanded to 24 colors.
