@@ -64,9 +64,10 @@ Further development of GUI improvement (and graphics).
 
 Future plans: 3D viewer using a lot of Katya's Ez Relay's features.
 
-_NO registration needed! Start immediately without registration or a K-Di account. No connection to K-Di servers needed!
+NO registration needed! Start immediately without registration or a K-Di account. No connection to K-Di servers needed!
 Registered for FREE version: Enhanced features and access to optional Premium Unlocks, Licenses and other Ez features.
-Pro (Registered Free version needed): Additional advanced communication, organization and business tools. Turns Ez Relay Chat tool into a business management tool._
+Pro (Registered Free version needed): Additional advanced communication, organization and business tools.
+Pro version turns Ez Relay Chat tool into a business management tool with unique features.
 
 **_Microsoft might give you a pop-up the first time you run the installer/program because its not digitally signed.
 Microsoft might ask if you trust this program from an unknown publisher._**
