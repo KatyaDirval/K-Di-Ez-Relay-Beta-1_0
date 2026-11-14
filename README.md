@@ -1,4 +1,4 @@
-# ***Katya's Ez Relay System - Beta 1.0 - START FOR FREE - FOREVER FREE***
+# ***Katya's Ez Relay System - Beta 1.1 - START FOR FREE - FOREVER FREE***
 
 ![image](docs/0-Ez-New-Screenie-1.jpg)
 
