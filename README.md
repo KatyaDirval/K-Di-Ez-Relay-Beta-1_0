@@ -20,7 +20,7 @@ More videos will be added (including from other projects), please subscribe :).
 
 ### **The current beta has quite some features already (even more with version 1.1). Just to name a few that you might expect from a viewer are already functional (including Ez Relay's enhanced features):**
 
-_Private messaging, Nearby Chat, and locally saved chat history. Second Life Friends and separate, customizable Relay Contacts. Resident profiles, friendship requests, and contact organization. Teleportation, favorite locations, and SLurls. Notecards, landmarks, textures, and supported inventory management. Second Life Groups, Group Chat, and Group Notices. Avatar controls, status, and L$ information. Optional Mini Radar with nearby resident information. Profile and Picks editing. Business-oriented contact and transaction-history tools. Themes, personalization, and convenient quick actions._
+_Private messaging, Nearby Chat, and locally saved chat history. Second Life Friends and separate customizable Relay Contacts. Resident profiles, friendship requests, and contact organization. Teleportation, favorite locations, and SLurls. Notecards, landmarks, textures, and supported inventory management. Second Life Groups, Group Chat, and Group Notices. Avatar controls, status, and L$ information. Optional Mini Radar with nearby resident information. Profile and Picks editing. Business-oriented contact and transaction-history tools. Themes, personalization, and convenient quick actions._
 
 Updates & Fixes (added on November 14 with Beta 1.1):
 
